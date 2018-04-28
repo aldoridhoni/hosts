@@ -1,0 +1,82 @@
+## Ads
+ads.exoclick.com
+www.googleadservices.com
+googleads.g.doubleclick.net
+pubads.g.doubleclick.net
+pagead2.googlesyndication.com
+ad.doubleclick.net
+us-ads.openx.net
+adadvisor.net
+ads.flurry.com
+files.adform.net
+www.onclickads.net
+delivery.us.myswitchads.com
+
+## Telkom
+internet-positif.org
+internetpositif.uzone.id
+cfs.u-ad.info
+a01.u-ad.info
+expose.uzone.id
+
+## Tracking & Analytics
+graph.facebook.com
+ssl.google-analytics.com
+www.googletagservices.com
+stats.g.doubleclick.net
+ssl-google-analytics.l.google.co
+stats.l.doubleclick.net
+www.google-analytics.com
+s.youtube.com
+data.flurry.com
+media.admob.com
+e.crashlytics.com
+api.mixpanel.com
+api.crittercism.com
+alog.umeng.com
+alog.umeng.co
+log.umtrack.com
+api.parse.com
+api.sharesdk.cn
+mobile-collector.newrelic.com
+*.terraclicks.com
+secure-ds.serving-sys.com
+25643e662a2.com
+1986a44b12e.com
+cdn.spoutable.com
+sdk.open.phone.igexin.com
+decide.mixpanel.com
+tofu.dmcdn.net
+logger-06.vty.dailymotion.com
+syndication.exoclick.com
+
+# Apple
+iadsdk.apple.com
+securemetrics.apple.com
+xp.apple.com
+cf.iadsdk.apple.com
+ut.iadsdk.apple.com
+tr.iadsdk.apple.com
+
+# Spotify
+ads-fa.spotify.com
+analytics.spotify.com
+log.spotify.com
+crashdump.spotify.com
+spclient.wg.spotify.com
+
+# Ubuntu
+daisy.ubuntu.com
+
+# Fedora
+fwupd.org
+
+# Windows
+vortex.data.microsoft.com
+setting.data.microsoft.com
+mobile.pipe.aria.microsoft.com
+in.mobile.azure.com
+arrowsmart.azurewebsites.net
+
+# Samsung
+vas.samsungapps.com
